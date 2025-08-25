@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck_addition_prompt>
+  <project_overview>
+    <description>Comprehensive planning and execution guidance for deck addition project</description>
+    <scope></scope>
+    <timeline></timeline>
+    <existing_plans>Hand-drawn plans uploaded as images - analyze and interpret these drawings</existing_plans>
+  </project_overview>
+
+  <specifications>
+    <dimensions>
+      <length></length>
+      <width></width>
+      <height></height>
+    </dimensions>
+    
+    <materials>
+      <decking_material></decking_material>
+      <framing_material></framing_material>
+      <foundation_type></foundation_type>
+    </materials>
+  </specifications>
+
+  <site_conditions>
+    <terrain></terrain>
+    <existing_structure></existing_structure>
+    <utilities></utilities>
+    <access></access>
+  </site_conditions>
+
+  <project_team_input>
+    <professional_1>
+      <name></name>
+      <expertise></expertise>
+      <relevant_links></relevant_links>
+    </professional_1>
+    
+    <professional_2>
+      <name></name>
+      <expertise></expertise>
+      <relevant_links></relevant_links>
+    </professional_2>
+    
+    <professional_3>
+      <name></name>
+      <expertise></expertise>
+      <relevant_links></relevant_links>
+    </professional_3>
+  </project_team_input>
+
+  <deliverables_requested>
+    <material_list>true</material_list>
+    <cut_list>true</cut_list>
+    <tool_requirements>true</tool_requirements>
+    <cost_estimate>true</cost_estimate>
+    <step_by_step_instructions>true</step_by_step_instructions>
+    <safety_considerations>true</safety_considerations>
+    <plan_interpretation>true</plan_interpretation>
+    <code_compliance_notes>true</code_compliance_notes>
+  </deliverables_requested>
+
+  <constraints>
+    <budget></budget>
+    <skill_level></skill_level>
+    <tools_available></tools_available>
+    <time_availability></time_availability>
+  </constraints>
+
+  <context_instructions>
+    <role>Act as an experienced deck contractor and construction advisor familiar with Fairfax County building requirements</role>
+    <local_codes>Reference Fairfax County deck requirements: https://www.fairfaxcounty.gov/landdevelopment/sites/landdevelopment/files/assets/documents/pdf/publications/deck-details.pdf</local_codes>
+    <plan_analysis>First analyze uploaded hand-drawn plans, then cross-reference against code requirements</plan_analysis>
+    <team_integration>Incorporate insights and links provided by the three project professionals</team_integration>
+    <response_format>Organized sections with clear headings, actionable steps, safety callouts</response_format>
+  </context_instructions>
+</deck_addition_prompt>
