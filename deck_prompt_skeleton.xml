@@ -19,6 +19,20 @@
       <framing_material></framing_material>
       <foundation_type></foundation_type>
     </materials>
+    
+    <local_pricing>
+      <zip_code>22032</zip_code>
+      <supply_stores_to_check>
+        <home_depot>true</home_depot>
+        <lowes>true</lowes>
+        <menards>true</menards>
+        <local_lumber_yards>true</local_lumber_yards>
+        <specialty_deck_suppliers>true</specialty_deck_suppliers>
+      </supply_stores_to_check>
+      <price_comparison_required>true</price_comparison_required>
+      <seasonal_pricing_consideration>true</seasonal_pricing_consideration>
+      <bulk_discount_inquiries>true</bulk_discount_inquiries>
+    </local_pricing>
   </specifications>
 
   <site_conditions>
@@ -57,6 +71,34 @@
     <safety_considerations>true</safety_considerations>
     <plan_interpretation>true</plan_interpretation>
     <code_compliance_notes>true</code_compliance_notes>
+    
+    <detailed_deck_plans>
+      <technical_drawings>true</technical_drawings>
+      <foundation_plan>true</foundation_plan>
+      <framing_layout>true</framing_layout>
+      <decking_pattern>true</decking_pattern>
+      <railing_details>true</railing_details>
+    </detailed_deck_plans>
+    
+    <time_and_scheduling>
+      <project_timeline>true</project_timeline>
+      <phase_breakdown>true</phase_breakdown>
+      <weather_considerations>true</weather_considerations>
+      <optimal_start_dates>true</optimal_start_dates>
+      <labor_availability_optimization>true</labor_availability_optimization>
+      <cost_minimization_scheduling>true</cost_minimization_scheduling>
+    </time_and_scheduling>
+    
+    <comprehensive_estimates>
+      <detailed_cost_breakdown>true</detailed_cost_breakdown>
+      <contingency_planning>true</contingency_planning>
+      <cost_tracking_framework>true</cost_tracking_framework>
+      <progress_milestones>true</progress_milestones>
+      <budget_variance_tracking>true</budget_variance_tracking>
+      <roi_analysis>true</roi_analysis>
+      <permit_and_inspection_costs>true</permit_and_inspection_costs>
+      <waste_factor_calculations>true</waste_factor_calculations>
+    </comprehensive_estimates>
   </deliverables_requested>
 
   <constraints>
@@ -69,6 +111,7 @@
   <context_instructions>
     <role>Act as an experienced deck contractor and construction advisor familiar with Fairfax County building requirements</role>
     <local_codes>Reference Fairfax County deck requirements: https://www.fairfaxcounty.gov/landdevelopment/sites/landdevelopment/files/assets/documents/pdf/publications/deck-details.pdf</local_codes>
+    <pricing_research>Research current local pricing from multiple suppliers in the 22032 zip code area including Home Depot, Lowe's, Menards, local lumber yards, and specialty deck suppliers. Include seasonal pricing variations and bulk discount opportunities</pricing_research>
     <plan_analysis>First analyze uploaded hand-drawn plans, then cross-reference against code requirements</plan_analysis>
     <team_integration>Incorporate insights and links provided by the three project professionals</team_integration>
     <response_format>Organized sections with clear headings, actionable steps, safety callouts</response_format>
