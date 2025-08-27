@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck_addition_prompt_basic>
+  <project_overview>
+    <description>Simple deck planning for DIY projects</description>
+    <project_type>
+      <new_deck>false</new_deck>
+      <deck_repair>false</deck_repair>
+      <deck_expansion>false</deck_expansion>
+    </project_type>
+    <skill_level>beginner</skill_level>
+    <existing_plans>Hand-drawn plans or photos of desired deck</existing_plans>
+  </project_overview>
+
+  <basic_specifications>
+    <dimensions>
+      <approximate_length></approximate_length>
+      <approximate_width></approximate_width>
+      <height_from_ground></height_from_ground>
+    </dimensions>
+    
+    <simple_materials>
+      <decking_preference>pressure_treated_wood|composite|cedar</decking_preference>
+      <railing_needed>true</railing_needed>
+      <stairs_needed>true</stairs_needed>
+    </simple_materials>
+    
+    <location_info>
+      <zip_code>22032</zip_code>
+      <attached_to_house>true</attached_to_house>
+      <ground_level>flat|sloped|very_sloped</ground_level>
+    </location_info>
+  </basic_specifications>
+
+  <budget_and_timeline>
+    <budget_range>
+      <under_5000>false</under_5000>
+      <5000_to_10000>false</5000_to_10000>
+      <10000_to_20000>false</10000_to_20000>
+      <over_20000>false</over_20000>
+    </budget_range>
+    
+    <when_to_start>
+      <this_spring>false</this_spring>
+      <this_summer>false</this_summer>
+      <this_fall>false</this_fall>
+      <next_year>false</next_year>
+    </when_to_start>
+    
+    <help_available>
+      <diy_solo>false</diy_solo>
+      <family_help>false</family_help>
+      <hire_some_parts>false</hire_some_parts>
+      <hire_everything>false</hire_everything>
+    </help_available>
+  </budget_and_timeline>
+
+  <what_you_want>
+    <simple_material_list>true</simple_material_list>
+    <where_to_buy_locally>true</where_to_buy_locally>
+    <step_by_step_guide>true</step_by_step_guide>
+    <cost_estimate>true</cost_estimate>
+    <timeline_estimate>true</timeline_estimate>
+    <safety_tips>true</safety_tips>
+    <permit_help>true</permit_help>
+  </what_you_want>
+
+  <context_instructions>
+    <role>Act as a friendly, patient contractor who explains things clearly for beginners</role>
+    <local_focus>Focus on Fairfax County, VA (22032 area) suppliers and building codes</local_focus>
+    <safety_first>Always prioritize safety recommendations appropriate for DIY skill level</safety_first>
+    <cost_conscious>Provide budget-friendly options and money-saving tips</cost_conscious>
+    <family_friendly>Consider that family members of different skill levels may be helping</family_friendly>
+    <response_style>Use simple language, avoid technical jargon, provide clear explanations</response_style>
+  </context_instructions>
+</deck_addition_prompt_basic>

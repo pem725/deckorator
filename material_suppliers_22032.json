@@ -1,0 +1,131 @@
+{
+  "zip_code": "22032",
+  "area": "Burke/Fairfax, Virginia",
+  "suppliers": {
+    "big_box_stores": [
+      {
+        "name": "Home Depot",
+        "locations": [
+          {
+            "address": "5765 Burke Centre Pkwy, Burke, VA 22015",
+            "phone": "(703) 426-0990",
+            "distance_miles": 3.2,
+            "lumber_yard": true,
+            "delivery": true,
+            "contractor_services": true,
+            "specialties": ["pressure treated lumber", "composite decking", "railing systems", "hardware"]
+          },
+          {
+            "address": "6210 Rolling Rd, Springfield, VA 22152",
+            "phone": "(703) 719-3000",
+            "distance_miles": 4.8,
+            "lumber_yard": true,
+            "delivery": true,
+            "contractor_services": true
+          }
+        ]
+      },
+      {
+        "name": "Lowe's",
+        "locations": [
+          {
+            "address": "9410 Old Keene Mill Rd, Burke, VA 22015",
+            "phone": "(703) 455-6800",
+            "distance_miles": 2.9,
+            "lumber_yard": true,
+            "delivery": true,
+            "contractor_services": true,
+            "specialties": ["composite decking", "cedar lumber", "deck stains", "outdoor lighting"]
+          }
+        ]
+      },
+      {
+        "name": "Menards",
+        "note": "No locations in Northern Virginia - primarily Midwest chain",
+        "alternatives": "Consider HD Supply or local lumber yards instead"
+      }
+    ],
+    "local_lumber_yards": [
+      {
+        "name": "84 Lumber",
+        "address": "8536 Rolling Rd, Manassas, VA 20110",
+        "phone": "(703) 369-8484",
+        "distance_miles": 12.5,
+        "delivery": true,
+        "contractor_pricing": true,
+        "specialties": ["custom cutting", "pressure treated lumber", "engineered lumber", "bulk pricing"],
+        "notes": "Professional contractor preferred, better prices for larger orders"
+      },
+      {
+        "name": "Superior Building Supply",
+        "address": "6250 Rolling Mill Pl, Springfield, VA 22152",
+        "phone": "(703) 451-9330",
+        "distance_miles": 5.2,
+        "delivery": true,
+        "contractor_pricing": true,
+        "specialties": ["millwork", "custom lumber", "decking materials", "trim"],
+        "notes": "Local family business, helpful staff"
+      }
+    ],
+    "specialty_deck_suppliers": [
+      {
+        "name": "Deck & Fence Connection",
+        "address": "14503 Lee Rd, Chantilly, VA 20151",
+        "phone": "(703) 222-7845",
+        "distance_miles": 8.7,
+        "specialties": ["composite decking", "PVC railing", "aluminum railing", "deck lighting", "custom design"],
+        "notes": "Deck specialists, design consultation available"
+      },
+      {
+        "name": "Virginia Deck & Fence",
+        "address": "6308 Multiplex Dr, Centreville, VA 20121",
+        "phone": "(703) 543-7966",
+        "distance_miles": 9.3,
+        "installation_services": true,
+        "specialties": ["TimberTech", "Trex", "Azek", "custom railings"],
+        "notes": "Full service, installation and materials"
+      }
+    ],
+    "hardware_and_fasteners": [
+      {
+        "name": "Fastenal",
+        "address": "5115 Backlick Rd, Annandale, VA 22003",
+        "phone": "(703) 354-8100",
+        "distance_miles": 6.1,
+        "specialties": ["deck screws", "joist hangers", "bolts", "specialty fasteners"],
+        "notes": "Industrial supplier, bulk quantities"
+      },
+      {
+        "name": "Northern Tool + Equipment",
+        "address": "7230 Heritage Village Plz, Gainesville, VA 20155",
+        "phone": "(571) 248-4200",
+        "distance_miles": 15.2,
+        "specialties": ["tools", "equipment rental", "heavy duty hardware"]
+      }
+    ]
+  },
+  "seasonal_pricing_notes": {
+    "best_times_to_buy": {
+      "lumber": "Late fall through early spring (November-March)",
+      "composite_decking": "Winter months (December-February)",
+      "hardware": "Year-round pricing relatively stable"
+    },
+    "avoid_buying": {
+      "spring_rush": "April-May (highest demand, highest prices)",
+      "summer_peak": "June-July (premium pricing period)"
+    }
+  },
+  "bulk_discount_tips": [
+    "Most suppliers offer 5-10% discount on orders over $1000",
+    "84 Lumber and Superior offer best bulk pricing",
+    "Home Depot Pro pricing available with Pro account",
+    "Ask about contractor pricing at all locations",
+    "Consider coordinating with neighbors for larger orders"
+  ],
+  "delivery_considerations": {
+    "minimum_orders": "Most require $200-500 minimum for free delivery",
+    "scheduling": "Schedule deliveries 1-2 weeks in advance during busy season",
+    "access": "Ensure truck access to your property",
+    "storage": "Have covered storage ready for materials"
+  }
+}

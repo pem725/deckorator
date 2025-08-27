@@ -1,0 +1,163 @@
+{
+  "configuration_instructions": {
+    "description": "Customize this file for your location by updating the zip_code and local information",
+    "usage": "The AI will use this information to provide location-specific advice",
+    "customization_needed": [
+      "Update zip_code to your area",
+      "Research local suppliers and update supplier information",
+      "Verify building codes and permit requirements for your jurisdiction",
+      "Adjust climate information for your region"
+    ]
+  },
+  
+  "current_location": {
+    "zip_code": "22032",
+    "city": "Burke",
+    "state": "Virginia",
+    "region": "Northern Virginia/Washington DC Metro",
+    "county": "Fairfax County"
+  },
+
+  "building_codes_and_permits": {
+    "jurisdiction": "Fairfax County",
+    "permit_required_threshold": "deck_over_30_inches_high_or_attached_to_house",
+    "permit_office": {
+      "name": "Fairfax County Department of Land Development Services",
+      "website": "https://www.fairfaxcounty.gov/landdevelopment/",
+      "phone": "(703) 222-0804",
+      "address": "12055 Government Center Pkwy, Fairfax, VA 22035"
+    },
+    "building_codes": {
+      "primary_code": "Virginia Uniform Statewide Building Code (VUSBC)",
+      "local_amendments": "Fairfax County Building Code amendments",
+      "deck_specific_requirements": "https://www.fairfaxcounty.gov/landdevelopment/sites/landdevelopment/files/assets/documents/pdf/publications/deck-details.pdf"
+    },
+    "typical_permit_timeline": "2-4 weeks",
+    "inspection_requirements": ["footing", "framing", "final"],
+    "permit_cost_estimate": "$50-200 depending on deck size"
+  },
+
+  "climate_considerations": {
+    "climate_zone": "4A (Mixed-Humid)",
+    "frost_line_depth": "18-24 inches",
+    "average_annual_precipitation": "43 inches",
+    "humidity_considerations": "High summer humidity affects wood and working conditions",
+    "temperature_ranges": {
+      "winter_low": "20-30°F",
+      "summer_high": "85-95°F",
+      "optimal_construction_months": ["April", "May", "September", "October"]
+    },
+    "weather_patterns": {
+      "wettest_months": ["May", "July", "August"],
+      "driest_months": ["October", "November", "February"],
+      "hurricane_season_impact": "August-October potential for delays",
+      "freeze_thaw_cycles": "Common in winter, affects concrete work timing"
+    }
+  },
+
+  "local_supplier_categories": {
+    "big_box_stores": {
+      "home_depot": {
+        "availability": true,
+        "multiple_locations": true,
+        "contractor_services": true,
+        "delivery": true
+      },
+      "lowes": {
+        "availability": true,
+        "multiple_locations": true,
+        "contractor_services": true,
+        "delivery": true
+      },
+      "menards": {
+        "availability": false,
+        "note": "Not available in this region"
+      }
+    },
+    "local_lumber_yards": {
+      "availability": true,
+      "typical_benefits": ["better_pricing", "custom_cutting", "contractor_discounts"],
+      "examples": ["84 Lumber", "Superior Building Supply"]
+    },
+    "specialty_deck_suppliers": {
+      "availability": true,
+      "services": ["design_consultation", "premium_materials", "installation"],
+      "examples": ["Deck & Fence Connection", "Virginia Deck & Fence"]
+    }
+  },
+
+  "cost_factors": {
+    "market_conditions": "High cost area due to proximity to Washington DC",
+    "labor_costs": "Above national average",
+    "material_costs": "Slightly above national average",
+    "seasonal_variation": "20-30% price swing from winter low to spring high",
+    "permit_and_fees": "Moderate - typical for suburban county"
+  },
+
+  "regional_preferences": {
+    "popular_materials": ["pressure_treated_pine", "composite_decking", "cedar"],
+    "common_deck_styles": ["rectangular", "multi_level", "wraparound"],
+    "typical_features": ["railings", "stairs", "lighting", "built_in_seating"],
+    "local_aesthetic_considerations": "HOA restrictions common, architectural review may be required"
+  },
+
+  "customization_templates": {
+    "other_regions": {
+      "southeast": {
+        "climate_zone": "3A",
+        "frost_line": "6-12 inches",
+        "hurricane_considerations": true,
+        "termite_protection": "critical"
+      },
+      "midwest": {
+        "climate_zone": "5A-6A",
+        "frost_line": "30-48 inches",
+        "menards_availability": true,
+        "winter_construction_limitations": "significant"
+      },
+      "southwest": {
+        "climate_zone": "3B-4B",
+        "frost_line": "minimal",
+        "heat_considerations": "extreme",
+        "UV_protection": "critical"
+      },
+      "pacific_northwest": {
+        "climate_zone": "4C",
+        "rain_considerations": "significant",
+        "cedar_preference": true,
+        "mold_mildew_prevention": "important"
+      }
+    }
+  },
+
+  "setup_wizard_questions": [
+    {
+      "question": "What is your zip code?",
+      "field": "current_location.zip_code",
+      "required": true
+    },
+    {
+      "question": "What county/jurisdiction are you in?",
+      "field": "building_codes_and_permits.jurisdiction",
+      "required": true,
+      "help": "This determines building codes and permit requirements"
+    },
+    {
+      "question": "Are you in an HOA or planned community?",
+      "field": "regional_preferences.hoa_considerations",
+      "required": false
+    },
+    {
+      "question": "What is your local frost line depth?",
+      "field": "climate_considerations.frost_line_depth",
+      "required": true,
+      "help": "Determines foundation requirements - check with local building department"
+    },
+    {
+      "question": "What are your main local suppliers?",
+      "field": "local_supplier_categories",
+      "required": false,
+      "help": "List Home Depot, Lowe's, local lumber yards, etc. in your area"
+    }
+  ]
+}

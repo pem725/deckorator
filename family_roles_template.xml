@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family_deck_project_roles>
+  <project_coordinator>
+    <name></name>
+    <responsibilities>
+      <overall_planning>true</overall_planning>
+      <permit_management>true</permit_management>
+      <material_ordering>true</material_ordering>
+      <schedule_coordination>true</schedule_coordination>
+      <budget_tracking>true</budget_tracking>
+    </responsibilities>
+    <skills_required>project_management, basic_construction_knowledge</skills_required>
+  </project_coordinator>
+
+  <family_members>
+    <member_1>
+      <name></name>
+      <age_group>adult|teen|child</age_group>
+      <skill_level>
+        <construction_experience>none|beginner|intermediate|advanced</construction_experience>
+        <tool_comfort>none|basic|comfortable|expert</tool_comfort>
+        <physical_capability>limited|moderate|high</physical_capability>
+        <available_time>weekends_only|evenings|flexible|full_time</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>false</planning_research>
+        <material_prep>false</material_prep>
+        <measuring_marking>false</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>false</finishing_sanding>
+        <cleanup>false</cleanup>
+        <documentation_photos>false</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations></safety_considerations>
+    </member_1>
+
+    <member_2>
+      <name></name>
+      <age_group>adult|teen|child</age_group>
+      <skill_level>
+        <construction_experience>none|beginner|intermediate|advanced</construction_experience>
+        <tool_comfort>none|basic|comfortable|expert</tool_comfort>
+        <physical_capability>limited|moderate|high</physical_capability>
+        <available_time>weekends_only|evenings|flexible|full_time</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>false</planning_research>
+        <material_prep>false</material_prep>
+        <measuring_marking>false</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>false</finishing_sanding>
+        <cleanup>false</cleanup>
+        <documentation_photos>false</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations></safety_considerations>
+    </member_2>
+
+    <member_3>
+      <name></name>
+      <age_group>adult|teen|child</age_group>
+      <skill_level>
+        <construction_experience>none|beginner|intermediate|advanced</construction_experience>
+        <tool_comfort>none|basic|comfortable|expert</tool_comfort>
+        <physical_capability>limited|moderate|high</physical_capability>
+        <available_time>weekends_only|evenings|flexible|full_time</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>false</planning_research>
+        <material_prep>false</material_prep>
+        <measuring_marking>false</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>false</finishing_sanding>
+        <cleanup>false</cleanup>
+        <documentation_photos>false</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations></safety_considerations>
+    </member_3>
+
+    <member_4>
+      <name></name>
+      <age_group>adult|teen|child</age_group>
+      <skill_level>
+        <construction_experience>none|beginner|intermediate|advanced</construction_experience>
+        <tool_comfort>none|basic|comfortable|expert</tool_comfort>
+        <physical_capability>limited|moderate|high</physical_capability>
+        <available_time>weekends_only|evenings|flexible|full_time</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>false</planning_research>
+        <material_prep>false</material_prep>
+        <measuring_marking>false</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>false</finishing_sanding>
+        <cleanup>false</cleanup>
+        <documentation_photos>false</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations></safety_considerations>
+    </member_4>
+  </family_members>
+
+  <task_assignments_by_phase>
+    <planning_phase>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_weeks>2-4</timeline_weeks>
+    </planning_phase>
+
+    <permit_and_prep_phase>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_weeks>1-2</timeline_weeks>
+    </permit_and_prep_phase>
+
+    <foundation_phase>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>1-3</timeline_days>
+      <safety_notes>Heavy lifting, power tools, precise measurements required</safety_notes>
+    </foundation_phase>
+
+    <framing_phase>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>2-4</timeline_days>
+      <safety_notes>Power tools, height work, heavy materials</safety_notes>
+    </framing_phase>
+
+    <decking_installation>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>2-3</timeline_days>
+      <safety_notes>Knee pads recommended, repetitive work, precision cutting</safety_notes>
+    </decking_installation>
+
+    <railing_installation>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>1-2</timeline_days>
+      <safety_notes>Height work, precise measurements, detail-oriented</safety_notes>
+    </railing_installation>
+
+    <finishing_phase>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>1-2</timeline_days>
+      <safety_notes>Chemical exposure (stains/sealers), ventilation required</safety_notes>
+    </finishing_phase>
+
+    <cleanup_and_final_inspection>
+      <primary_responsible></primary_responsible>
+      <supporting_roles></supporting_roles>
+      <timeline_days>1</timeline_days>
+    </cleanup_and_final_inspection>
+  </task_assignments_by_phase>
+
+  <safety_guidelines_by_age_group>
+    <adults>
+      <power_tools_allowed>true</power_tools_allowed>
+      <heavy_lifting_max_weight>50_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>true_with_proper_safety</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves, steel_toe_boots</required_safety_equipment>
+    </adults>
+
+    <teens_16_plus>
+      <power_tools_allowed>with_supervision</power_tools_allowed>
+      <heavy_lifting_max_weight>30_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>limited_with_supervision</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves, closed_toe_shoes</required_safety_equipment>
+      <recommended_tasks>measuring, marking, material_prep, cleanup, documentation</recommended_tasks>
+    </teens_16_plus>
+
+    <teens_under_16>
+      <power_tools_allowed>false</power_tools_allowed>
+      <heavy_lifting_max_weight>15_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>false</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves</required_safety_equipment>
+      <recommended_tasks>cleanup, material_organization, documentation, support_roles</recommended_tasks>
+    </teens_under_16>
+
+    <children>
+      <power_tools_allowed>false</power_tools_allowed>
+      <heavy_lifting_max_weight>none</heavy_lifting_max_weight>
+      <height_work_allowed>false</height_work_allowed>
+      <required_safety_equipment>safety_glasses_when_observing</required_safety_equipment>
+      <recommended_tasks>cleanup, snack_support, documentation_assistant</recommended_tasks>
+      <supervision_required>constant</supervision_required>
+    </children>
+  </safety_guidelines_by_age_group>
+
+  <coordination_tools>
+    <schedule_tracking>
+      <tool_recommendation>shared_google_calendar</tool_recommendation>
+      <update_frequency>daily</update_frequency>
+    </schedule_tracking>
+    
+    <progress_documentation>
+      <daily_photos>true</daily_photos>
+      <milestone_photos>true</milestone_photos>
+      <issue_tracking>shared_document</issue_tracking>
+    </progress_documentation>
+    
+    <communication>
+      <daily_standup>recommended</daily_standup>
+      <group_chat>family_text_or_slack</group_chat>
+      <decision_making_process>coordinator_leads_family_input</decision_making_process>
+    </communication>
+  </coordination_tools>
+
+  <context_instructions>
+    <family_dynamics>Consider individual strengths, interests, and availability when assigning tasks</family_dynamics>
+    <skill_development>Use project as learning opportunity for less experienced members</skill_development>
+    <safety_priority>Always prioritize safety over speed or efficiency</safety_priority>
+    <flexible_roles>Allow role adjustments based on actual performance and interest</flexible_roles>
+    <recognition>Plan celebration and recognition for all contributors</recognition>
+  </context_instructions>
+</family_deck_project_roles>
