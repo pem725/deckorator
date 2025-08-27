@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family_deck_project_roles>
+  <project_coordinator>
+    <name>Carlos Martinez</name>
+    <responsibilities>
+      <overall_planning>true</overall_planning>
+      <permit_management>true</permit_management>
+      <material_ordering>true</material_ordering>
+      <schedule_coordination>true</schedule_coordination>
+      <budget_tracking>true</budget_tracking>
+    </responsibilities>
+    <skills_required>project_management, intermediate_construction_knowledge</skills_required>
+  </project_coordinator>
+
+  <family_members>
+    <member_1>
+      <name>Maria Martinez (spouse)</name>
+      <age_group>adult</age_group>
+      <skill_level>
+        <construction_experience>beginner</construction_experience>
+        <tool_comfort>basic</tool_comfort>
+        <physical_capability>moderate</physical_capability>
+        <available_time>weekends_only</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>true</planning_research>
+        <material_prep>true</material_prep>
+        <measuring_marking>true</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>true</finishing_sanding>
+        <cleanup>true</cleanup>
+        <documentation_photos>true</documentation_photos>
+        <food_drinks_support>true</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations>Prefers tasks away from power tools, excellent at organization and detail work</safety_considerations>
+    </member_1>
+
+    <member_2>
+      <name>Diego Martinez (son)</name>
+      <age_group>teen</age_group>
+      <skill_level>
+        <construction_experience>none</construction_experience>
+        <tool_comfort>comfortable</tool_comfort>
+        <physical_capability>high</physical_capability>
+        <available_time>flexible</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>false</planning_research>
+        <material_prep>true</material_prep>
+        <measuring_marking>true</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>true</drilling_screwing>
+        <heavy_lifting>true</heavy_lifting>
+        <finishing_sanding>true</finishing_sanding>
+        <cleanup>true</cleanup>
+        <documentation_photos>true</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations>17 years old, strong and eager but needs supervision with power tools</safety_considerations>
+    </member_2>
+
+    <member_3>
+      <name>Isabella Martinez (daughter)</name>
+      <age_group>teen</age_group>
+      <skill_level>
+        <construction_experience>none</construction_experience>
+        <tool_comfort>basic</tool_comfort>
+        <physical_capability>moderate</physical_capability>
+        <available_time>weekends_only</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>true</planning_research>
+        <material_prep>true</material_prep>
+        <measuring_marking>true</measuring_marking>
+        <cutting>false</cutting>
+        <drilling_screwing>false</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>true</finishing_sanding>
+        <cleanup>true</cleanup>
+        <documentation_photos>true</documentation_photos>
+        <food_drinks_support>true</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations>14 years old, very responsible but limited to non-power tool tasks</safety_considerations>
+    </member_3>
+
+    <member_4>
+      <name>Grandpa Jose Martinez</name>
+      <age_group>adult</age_group>
+      <skill_level>
+        <construction_experience>advanced</construction_experience>
+        <tool_comfort>expert</tool_comfort>
+        <physical_capability>limited</physical_capability>
+        <available_time>flexible</available_time>
+      </skill_level>
+      <preferred_tasks>
+        <planning_research>true</planning_research>
+        <material_prep>false</material_prep>
+        <measuring_marking>true</measuring_marking>
+        <cutting>true</cutting>
+        <drilling_screwing>true</drilling_screwing>
+        <heavy_lifting>false</heavy_lifting>
+        <finishing_sanding>false</finishing_sanding>
+        <cleanup>false</cleanup>
+        <documentation_photos>false</documentation_photos>
+        <food_drinks_support>false</food_drinks_support>
+      </preferred_tasks>
+      <safety_considerations>75 years old, decades of construction experience but arthritis limits heavy work</safety_considerations>
+    </member_4>
+  </family_members>
+
+  <task_assignments_by_phase>
+    <planning_phase>
+      <primary_responsible>Carlos (project coordinator) with Grandpa Jose (technical advisor)</primary_responsible>
+      <supporting_roles>Maria (research and permits), Isabella (documentation)</supporting_roles>
+      <timeline_weeks>3</timeline_weeks>
+    </planning_phase>
+
+    <permit_and_prep_phase>
+      <primary_responsible>Carlos and Maria</primary_responsible>
+      <supporting_roles>Diego (site clearing), Isabella (photo documentation)</supporting_roles>
+      <timeline_weeks>1</timeline_weeks>
+    </permit_and_prep_phase>
+
+    <foundation_phase>
+      <primary_responsible>Carlos and Diego (heavy work)</primary_responsible>
+      <supporting_roles>Grandpa Jose (technical guidance), Maria (measurements)</supporting_roles>
+      <timeline_days>2</timeline_days>
+      <safety_notes>Heavy digging and concrete work - Diego handles physical labor, Grandpa Jose provides expertise</safety_notes>
+    </foundation_phase>
+
+    <framing_phase>
+      <primary_responsible>Carlos with Grandpa Jose (cutting and precision work)</primary_responsible>
+      <supporting_roles>Diego (material handling), Maria and Isabella (measuring and marking)</supporting_roles>
+      <timeline_days>3</timeline_days>
+      <safety_notes>Power tool work - Grandpa Jose handles precision cutting, Carlos does assembly</safety_notes>
+    </framing_phase>
+
+    <decking_installation>
+      <primary_responsible>Carlos and Diego (installation)</primary_responsible>
+      <supporting_roles>Grandpa Jose (spacing guidance), Maria (board preparation)</supporting_roles>
+      <timeline_days>2</timeline_days>
+      <safety_notes>Repetitive work - rotate roles to prevent fatigue, Diego handles board moving</safety_notes>
+    </decking_installation>
+
+    <railing_installation>
+      <primary_responsible>Grandpa Jose (precision work) with Carlos</primary_responsible>
+      <supporting_roles>All family members can help with this detailed work</supporting_roles>
+      <timeline_days>2</timeline_days>
+      <safety_notes>Detail work - great opportunity for everyone to contribute safely</safety_notes>
+    </railing_installation>
+
+    <finishing_phase>
+      <primary_responsible>Maria and Isabella (staining and detail work)</primary_responsible>
+      <supporting_roles>Carlos (prep work), Diego (cleanup between coats)</supporting_roles>
+      <timeline_days>1</timeline_days>
+      <safety_notes>Chemical work - excellent ventilation, proper equipment for all</safety_notes>
+    </finishing_phase>
+
+    <cleanup_and_final_inspection>
+      <primary_responsible>Entire family team effort</primary_responsible>
+      <supporting_roles>Isabella (final photos), Carlos (inspection coordination)</supporting_roles>
+      <timeline_days>0.5</timeline_days>
+    </cleanup_and_final_inspection>
+  </task_assignments_by_phase>
+
+  <safety_guidelines_by_age_group>
+    <adults>
+      <power_tools_allowed>true</power_tools_allowed>
+      <heavy_lifting_max_weight>50_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>true_with_proper_safety</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves, steel_toe_boots</required_safety_equipment>
+    </adults>
+
+    <teens_16_plus>
+      <power_tools_allowed>with_supervision</power_tools_allowed>
+      <heavy_lifting_max_weight>30_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>limited_with_supervision</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves, closed_toe_shoes</required_safety_equipment>
+      <recommended_tasks>measuring, marking, material_prep, cleanup, documentation</recommended_tasks>
+    </teens_16_plus>
+
+    <teens_under_16>
+      <power_tools_allowed>false</power_tools_allowed>
+      <heavy_lifting_max_weight>15_pounds_solo</heavy_lifting_max_weight>
+      <height_work_allowed>false</height_work_allowed>
+      <required_safety_equipment>safety_glasses, work_gloves</required_safety_equipment>
+      <recommended_tasks>cleanup, material_organization, documentation, support_roles</recommended_tasks>
+    </teens_under_16>
+
+    <children>
+      <power_tools_allowed>false</power_tools_allowed>
+      <heavy_lifting_max_weight>none</heavy_lifting_max_weight>
+      <height_work_allowed>false</height_work_allowed>
+      <required_safety_equipment>safety_glasses_when_observing</required_safety_equipment>
+      <recommended_tasks>cleanup, snack_support, documentation_assistant</recommended_tasks>
+      <supervision_required>constant</supervision_required>
+    </children>
+  </safety_guidelines_by_age_group>
+
+  <coordination_tools>
+    <schedule_tracking>
+      <tool_recommendation>Google Calendar shared with all family members</tool_recommendation>
+      <update_frequency>daily check-ins during construction</update_frequency>
+    </schedule_tracking>
+    
+    <progress_documentation>
+      <daily_photos>Isabella's responsibility - end of each work session</daily_photos>
+      <milestone_photos>Carlos coordinates, everyone participates</milestone_photos>
+      <issue_tracking>Google Doc shared by all family members</issue_tracking>
+    </progress_documentation>
+    
+    <communication>
+      <daily_standup>15-minute morning check-in on work days</daily_standup>
+      <group_chat>WhatsApp family group for quick updates</group_chat>
+      <decision_making_process>Carlos leads with input from Grandpa Jose, family discussion for major decisions</decision_making_process>
+    </communication>
+  </coordination_tools>
+
+  <context_instructions>
+    <family_dynamics>Multi-generational project leveraging everyone's strengths - Grandpa's experience, adults' planning, teens' energy</family_dynamics>
+    <skill_development>Opportunity for Diego and Isabella to learn construction skills safely</skill_development>
+    <safety_priority>Never compromise safety for speed - Grandpa Jose is safety advisor</safety_priority>
+    <flexible_roles>Adjust assignments based on weather, energy levels, and progress</flexible_roles>
+    <recognition>Plan family celebration barbecue on completed deck with photo slideshow</recognition>
+  </context_instructions>
+</family_deck_project_roles>
+
+<!--
+EXAMPLE FAMILY: The Martinez Multi-Generational Project
+- Carlos (45): Project manager, intermediate skills, full-time job
+- Maria (43): Beginner but organized, handles research and documentation  
+- Diego (17): Strong teenager, eager to learn, available after school and weekends
+- Isabella (14): Responsible, great at detail work and organization
+- Grandpa Jose (75): Retired carpenter with 50 years experience, limited physical ability but expert knowledge
+
+This example shows:
+- How to leverage different generations' strengths
+- Age-appropriate task assignments  
+- Safety considerations for mixed skill levels
+- Communication and coordination strategies
+- Multi-generational learning opportunity
+- Realistic timeline accounting for availability
+-->

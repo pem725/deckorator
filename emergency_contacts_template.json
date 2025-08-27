@@ -1,0 +1,300 @@
+{
+  "project_information": {
+    "project_name": "Family Deck Construction",
+    "project_address": "",
+    "project_start_date": "",
+    "project_coordinator": "",
+    "coordinator_phone": ""
+  },
+
+  "emergency_services": {
+    "police_fire_ambulance": {
+      "number": "911",
+      "when_to_call": "Life threatening emergencies, serious injuries, fires, crimes in progress"
+    },
+    "poison_control": {
+      "number": "1-800-222-1222",
+      "when_to_call": "Chemical exposure, ingestion of harmful substances"
+    },
+    "non_emergency_police": {
+      "number": "(703) 691-2131",
+      "when_to_call": "Minor accidents, property damage, noise complaints",
+      "jurisdiction": "Fairfax County Police"
+    }
+  },
+
+  "medical_contacts": {
+    "family_doctor": {
+      "name": "",
+      "phone": "",
+      "address": "",
+      "notes": "Primary care for non-emergency injuries"
+    },
+    "urgent_care_nearby": {
+      "name": "Patient First Burke",
+      "phone": "(703) 372-6350",
+      "address": "5935 Kingstowne Towne Ctr, Alexandria, VA 22315",
+      "hours": "8 AM - 10 PM daily",
+      "notes": "Good for cuts requiring stitches, sprains, minor injuries"
+    },
+    "hospital_emergency_room": {
+      "name": "Inova Fairfax Hospital",
+      "phone": "(703) 776-4001",
+      "address": "3300 Gallows Rd, Falls Church, VA 22042",
+      "notes": "Full emergency services, trauma center"
+    }
+  },
+
+  "utilities_and_services": {
+    "gas_emergency": {
+      "company": "Washington Gas",
+      "emergency_number": "1-844-WASH-GAS",
+      "when_to_call": "Gas leaks, gas odors, damaged gas lines"
+    },
+    "electric_emergency": {
+      "company": "Dominion Energy",
+      "emergency_number": "1-866-366-4357",
+      "when_to_call": "Downed power lines, electrical hazards, power outages"
+    },
+    "water_sewer_emergency": {
+      "company": "Fairfax Water",
+      "emergency_number": "(703) 698-5613",
+      "when_to_call": "Water main breaks, sewer backups, water quality issues"
+    },
+    "dig_safe_call_before_you_dig": {
+      "number": "811",
+      "website": "www.virginia811.com",
+      "when_to_call": "At least 3 business days before digging",
+      "notes": "Required by law - free utility marking service"
+    }
+  },
+
+  "building_and_permits": {
+    "building_inspector": {
+      "department": "Fairfax County Land Development Services",
+      "phone": "(703) 222-0804",
+      "address": "12055 Government Center Pkwy, Fairfax, VA 22035",
+      "hours": "Monday-Friday 8:00 AM - 4:30 PM",
+      "when_to_call": "Inspection scheduling, permit questions, code compliance"
+    },
+    "building_permit_office": {
+      "phone": "(703) 222-0801",
+      "online": "www.fairfaxcounty.gov/landdevelopment",
+      "when_to_call": "Permit applications, status updates, requirements"
+    },
+    "code_enforcement": {
+      "phone": "(703) 324-1300",
+      "when_to_call": "Neighbor complaints, code violations, setback questions"
+    }
+  },
+
+  "professional_services": {
+    "structural_engineer": {
+      "name": "",
+      "phone": "",
+      "specialties": "Beam sizing, load calculations, complex deck designs",
+      "when_to_call": "Structural questions, engineering stamps required"
+    },
+    "licensed_electrician": {
+      "name": "Tom's Electric",
+      "phone": "",
+      "license_number": "",
+      "when_to_call": "Electrical rough-in, outlets, lighting installation"
+    },
+    "plumber": {
+      "name": "",
+      "phone": "",
+      "when_to_call": "Water line issues, gas line work"
+    },
+    "general_contractor_backup": {
+      "name": "",
+      "phone": "",
+      "when_to_call": "Project rescue, complex problems beyond DIY capability"
+    }
+  },
+
+  "material_suppliers": {
+    "home_depot_burke": {
+      "phone": "(703) 426-0990",
+      "address": "5765 Burke Centre Pkwy, Burke, VA 22015",
+      "hours": "Monday-Saturday 6 AM - 10 PM, Sunday 8 AM - 8 PM",
+      "services": "Materials, tool rental, delivery",
+      "contact_person": ""
+    },
+    "lowes_burke": {
+      "phone": "(703) 455-6800",
+      "address": "9410 Old Keene Mill Rd, Burke, VA 22015",
+      "hours": "Monday-Saturday 6 AM - 10 PM, Sunday 8 AM - 8 PM",
+      "services": "Materials, delivery, installation services"
+    },
+    "superior_building_supply": {
+      "phone": "(703) 451-9330",
+      "address": "6250 Rolling Mill Pl, Springfield, VA 22152",
+      "hours": "Monday-Friday 7 AM - 5 PM, Saturday 7 AM - 4 PM",
+      "services": "Lumber, custom cutting, contractor pricing"
+    },
+    "84_lumber": {
+      "phone": "(703) 369-8484",
+      "address": "8536 Rolling Rd, Manassas, VA 20110",
+      "hours": "Monday-Friday 7 AM - 5 PM, Saturday 7 AM - 12 PM",
+      "services": "Professional lumber, engineered products, delivery"
+    }
+  },
+
+  "tool_rental_services": {
+    "home_depot_tool_rental": {
+      "phone": "(703) 426-0990",
+      "hours": "Monday-Friday 7 AM - 7 PM, Saturday 7 AM - 6 PM, Sunday 9 AM - 5 PM",
+      "common_tools": "Power augers, compressors, saws, nail guns"
+    },
+    "united_rentals": {
+      "phone": "(703) 222-5100",
+      "address": "14501 Newbrook Dr, Chantilly, VA 20151",
+      "hours": "Monday-Friday 7 AM - 5 PM, Saturday 7 AM - 12 PM",
+      "specialties": "Heavy equipment, professional tools"
+    },
+    "a1_equipment_rental": {
+      "phone": "(703) 803-9696",
+      "address": "13999 Metrotech Dr, Chantilly, VA 20151",
+      "hours": "Monday-Friday 7:30 AM - 5 PM, Saturday 8 AM - 2 PM",
+      "notes": "Local business, competitive rates"
+    }
+  },
+
+  "family_and_project_contacts": {
+    "project_coordinator": {
+      "name": "",
+      "phone": "",
+      "role": "Main decision maker, permit holder, budget manager"
+    },
+    "secondary_contact": {
+      "name": "",
+      "phone": "",
+      "role": "Backup coordinator, site access"
+    },
+    "experienced_helper": {
+      "name": "",
+      "phone": "",
+      "role": "Technical advisor, skilled construction helper"
+    },
+    "neighbor_emergency_contact": {
+      "name": "",
+      "phone": "",
+      "notes": "Nearby neighbor for emergencies when family not home"
+    }
+  },
+
+  "insurance_and_legal": {
+    "homeowners_insurance": {
+      "company": "",
+      "policy_number": "",
+      "phone": "",
+      "agent_name": "",
+      "when_to_call": "Damage to property, liability issues, coverage questions"
+    },
+    "umbrella_policy": {
+      "company": "",
+      "policy_number": "",
+      "phone": "",
+      "notes": "Additional liability coverage for construction activities"
+    },
+    "legal_counsel": {
+      "name": "",
+      "phone": "",
+      "specialties": "Property law, construction disputes, permit issues",
+      "when_to_call": "Neighbor disputes, permit denials, liability concerns"
+    }
+  },
+
+  "weather_and_environmental": {
+    "weather_emergency": {
+      "service": "National Weather Service",
+      "phone": "1-800-729-4647",
+      "website": "www.weather.gov",
+      "when_to_use": "Severe weather warnings, construction weather planning"
+    },
+    "tree_emergency": {
+      "company": "Fairfax County Tree Service",
+      "phone": "(703) 324-3988",
+      "when_to_call": "Storm damaged trees, trees threatening construction"
+    }
+  },
+
+  "quick_reference_numbers": {
+    "life_threatening_emergency": "911",
+    "poison_control": "1-800-222-1222",
+    "gas_leak": "1-844-WASH-GAS",
+    "electrical_emergency": "1-866-366-4357",
+    "dig_safe": "811",
+    "building_inspector": "(703) 222-0804",
+    "project_coordinator": "",
+    "backup_contractor": ""
+  },
+
+  "emergency_procedures": {
+    "serious_injury": [
+      "1. Call 911 immediately",
+      "2. Do not move injured person unless in immediate danger",
+      "3. Apply direct pressure to bleeding wounds",
+      "4. Stay with injured person until help arrives",
+      "5. Notify project coordinator and family"
+    ],
+    
+    "power_tool_accident": [
+      "1. Turn off power tool immediately",
+      "2. Assess injury severity",
+      "3. Call 911 for serious cuts or injuries",
+      "4. Apply pressure to bleeding wounds",
+      "5. Do not attempt to remove embedded objects"
+    ],
+    
+    "chemical_exposure": [
+      "1. Remove person from exposure area",
+      "2. Flush affected area with clean water for 15 minutes",
+      "3. Call Poison Control: 1-800-222-1222",
+      "4. Have product label/safety data sheet available",
+      "5. Seek medical attention as directed"
+    ],
+    
+    "structural_collapse": [
+      "1. Evacuate area immediately",
+      "2. Call 911",
+      "3. Do not attempt rescue if unsafe",
+      "4. Account for all workers",
+      "5. Do not re-enter area until cleared by professionals"
+    ],
+    
+    "gas_leak_suspected": [
+      "1. Do not use electrical switches or create sparks",
+      "2. Evacuate area immediately",
+      "3. Call gas company: 1-844-WASH-GAS",
+      "4. Call 911 if immediate danger",
+      "5. Do not return until cleared by gas company"
+    ],
+    
+    "electrical_hazard": [
+      "1. Do not touch person in contact with electricity",
+      "2. Turn off power at breaker if safely accessible",
+      "3. Call 911 for serious injuries",
+      "4. Call Dominion Energy: 1-866-366-4357",
+      "5. Keep others away from hazard area"
+    ]
+  },
+
+  "first_aid_kit_location": {
+    "primary_kit": "Garage workbench - red box",
+    "backup_kit": "Kitchen - under sink",
+    "construction_kit": "Tool storage area on job site"
+  },
+
+  "important_notes": [
+    "Keep this contact list posted at job site in weather-protected location",
+    "Ensure all family members know location of this information",
+    "Update phone numbers and add local contacts as project progresses",
+    "Program key emergency numbers into all project participants' phones",
+    "Review emergency procedures with all helpers before starting work",
+    "Keep first aid kit stocked and easily accessible during construction",
+    "Notify neighbors of construction schedule and emergency contact info",
+    "Post project coordinator contact info where helpers can easily find it"
+  ]
+}

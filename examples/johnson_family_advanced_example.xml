@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deck_addition_prompt>
+  <project_overview>
+    <description>Multi-level deck expansion with composite decking, built-in seating, and lighting for year-round entertaining</description>
+    <scope>Replace existing 10x12 deck with new 20x16 main deck plus 8x12 lower level, including pergola and outdoor kitchen prep area</scope>
+    <timeline>8-week project starting March 2025, completion by early May</timeline>
+    <existing_plans>Architectural drawings from local designer plus uploaded photos of current deck and desired features</existing_plans>
+  </project_overview>
+
+  <specifications>
+    <dimensions>
+      <length>20 feet main level, 8 feet lower level</length>
+      <width>16 feet main level, 12 feet lower level</width>
+      <height>Main: 30 inches, Lower: 18 inches from grade</height>
+    </dimensions>
+    
+    <materials>
+      <decking_material>TimberTech composite decking in Weathered Teak</decking_material>
+      <framing_material>Pressure treated southern yellow pine, engineered beams</framing_material>
+      <foundation_type>Concrete footings below frost line with adjustable post bases</foundation_type>
+    </materials>
+    
+    <local_pricing>
+      <zip_code>22032</zip_code>
+      <supply_stores_to_check>
+        <home_depot>true</home_depot>
+        <lowes>true</lowes>
+        <menards>false</menards>
+        <local_lumber_yards>true</local_lumber_yards>
+        <specialty_deck_suppliers>true</specialty_deck_suppliers>
+      </supply_stores_to_check>
+      <price_comparison_required>true</price_comparison_required>
+      <seasonal_pricing_consideration>true</seasonal_pricing_consideration>
+      <bulk_discount_inquiries>true</bulk_discount_inquiries>
+    </local_pricing>
+  </specifications>
+
+  <site_conditions>
+    <terrain>Moderate slope requiring retaining wall on lower level</terrain>
+    <existing_structure>Remove existing deck, work around mature oak tree</existing_structure>
+    <utilities>Electric line for outlets and lighting, gas line for future outdoor kitchen</utilities>
+    <access>Good truck access, covered storage available in garage</access>
+  </site_conditions>
+
+  <project_team_input>
+    <professional_1>
+      <name>Mike Anderson - Structural Engineer</name>
+      <expertise>Multi-level deck engineering, load calculations</expertise>
+      <relevant_links>Local engineer for beam sizing and footing requirements</relevant_links>
+    </professional_1>
+    
+    <professional_2>
+      <name>Sarah Chen - Landscape Designer</name>
+      <expertise>Deck integration with landscaping, plant selection</expertise>
+      <relevant_links>Coordination of deck design with existing mature trees</relevant_links>
+    </professional_2>
+    
+    <professional_3>
+      <name>Tom's Electric - Licensed Electrician</name>
+      <expertise>Outdoor electrical, low-voltage lighting systems</expertise>
+      <relevant_links>Installation of outlets, switches, and LED deck lighting</relevant_links>
+    </professional_3>
+  </project_team_input>
+
+  <deliverables_requested>
+    <material_list>true</material_list>
+    <cut_list>true</cut_list>
+    <tool_requirements>true</tool_requirements>
+    <cost_estimate>true</cost_estimate>
+    <step_by_step_instructions>true</step_by_step_instructions>
+    <safety_considerations>true</safety_considerations>
+    <plan_interpretation>true</plan_interpretation>
+    <code_compliance_notes>true</code_compliance_notes>
+    
+    <detailed_deck_plans>
+      <technical_drawings>true</technical_drawings>
+      <foundation_plan>true</foundation_plan>
+      <framing_layout>true</framing_layout>
+      <decking_pattern>true</decking_pattern>
+      <railing_details>true</railing_details>
+    </detailed_deck_plans>
+    
+    <time_and_scheduling>
+      <project_timeline>true</project_timeline>
+      <phase_breakdown>true</phase_breakdown>
+      <weather_considerations>true</weather_considerations>
+      <optimal_start_dates>true</optimal_start_dates>
+      <labor_availability_optimization>true</labor_availability_optimization>
+      <cost_minimization_scheduling>true</cost_minimization_scheduling>
+    </time_and_scheduling>
+    
+    <comprehensive_estimates>
+      <detailed_cost_breakdown>true</detailed_cost_breakdown>
+      <contingency_planning>true</contingency_planning>
+      <cost_tracking_framework>true</cost_tracking_framework>
+      <progress_milestones>true</progress_milestones>
+      <budget_variance_tracking>true</budget_variance_tracking>
+      <roi_analysis>true</roi_analysis>
+      <permit_and_inspection_costs>true</permit_and_inspection_costs>
+      <waste_factor_calculations>true</waste_factor_calculations>
+    </comprehensive_estimates>
+  </deliverables_requested>
+
+  <constraints>
+    <budget>$18,000 total budget including materials, permits, and hired electrical work</budget>
+    <skill_level>Experienced DIY, comfortable with power tools and complex construction</skill_level>
+    <tools_available>Full workshop including miter saw, circular saw, drill, impact driver, level, measuring tools</tools_available>
+    <time_availability>Weekends primarily, some weekday evenings, two vacation days available for major phases</time_availability>
+  </constraints>
+
+  <context_instructions>
+    <role>Act as an experienced deck contractor and construction advisor familiar with Fairfax County building requirements</role>
+    <local_codes>Reference Fairfax County deck requirements: https://www.fairfaxcounty.gov/landdevelopment/sites/landdevelopment/files/assets/documents/pdf/publications/deck-details.pdf</local_codes>
+    <pricing_research>Research current local pricing from multiple suppliers in the 22032 zip code area including Home Depot, Lowe's, Menards, local lumber yards, and specialty deck suppliers. Include seasonal pricing variations and bulk discount opportunities</pricing_research>
+    <plan_analysis>First analyze uploaded hand-drawn plans, then cross-reference against code requirements</plan_analysis>
+    <team_integration>Incorporate insights and links provided by the three project professionals</team_integration>
+    <response_format>Organized sections with clear headings, actionable steps, safety callouts</response_format>
+  </context_instructions>
+</deck_addition_prompt>
+
+<!--
+EXAMPLE FAMILY: The Johnsons
+- Dad (52): Experienced DIY, has built decks before, project manager
+- Mom (48): Moderate skills, handles planning and coordination
+- Adult Son (22): Skilled helper, available weekends and evenings
+- Adult Daughter (25): Lives nearby, weekend help available
+
+PROJECT DETAILS:
+- Experienced family replacing existing deck with major upgrade  
+- Higher budget of $18,000 for premium materials and features
+- Complex multi-level design with composite materials
+- Coordinating with professionals for electrical and engineering
+- HOA approval required
+- Want detailed tracking and professional-quality results
+- Comfort with power tools and complex construction
+-->

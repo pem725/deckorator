@@ -1,0 +1,309 @@
+{
+  "project_info": {
+    "family_name": "",
+    "project_name": "",
+    "deck_size": "",
+    "estimated_start_date": "",
+    "complexity_level": "basic|intermediate|advanced"
+  },
+
+  "tools_owned": {
+    "measuring_and_layout": {
+      "tape_measure_25ft": {"owned": false, "condition": "excellent|good|fair|poor", "notes": ""},
+      "speed_square": {"owned": false, "condition": "", "notes": ""},
+      "framing_square": {"owned": false, "condition": "", "notes": ""},
+      "chalk_line": {"owned": false, "condition": "", "notes": ""},
+      "string_line_level": {"owned": false, "condition": "", "notes": ""},
+      "4ft_level": {"owned": false, "condition": "", "notes": ""},
+      "2ft_level": {"owned": false, "condition": "", "notes": ""}
+    },
+    
+    "power_tools": {
+      "circular_saw": {"owned": false, "condition": "", "blade_condition": "", "notes": ""},
+      "miter_saw": {"owned": false, "condition": "", "blade_condition": "", "notes": ""},
+      "drill_driver": {"owned": false, "condition": "", "battery_count": 0, "notes": ""},
+      "impact_driver": {"owned": false, "condition": "", "battery_count": 0, "notes": ""},
+      "jigsaw": {"owned": false, "condition": "", "blade_condition": "", "notes": ""},
+      "reciprocating_saw": {"owned": false, "condition": "", "notes": ""},
+      "angle_grinder": {"owned": false, "condition": "", "notes": ""},
+      "router": {"owned": false, "condition": "", "notes": ""}
+    },
+
+    "hand_tools": {
+      "hammer_16oz": {"owned": false, "condition": "", "notes": ""},
+      "hammer_20oz": {"owned": false, "condition": "", "notes": ""},
+      "chisel_set": {"owned": false, "condition": "", "notes": ""},
+      "hand_saw": {"owned": false, "condition": "", "notes": ""},
+      "block_plane": {"owned": false, "condition": "", "notes": ""},
+      "utility_knife": {"owned": false, "condition": "", "notes": ""},
+      "pry_bar": {"owned": false, "condition": "", "notes": ""},
+      "socket_set": {"owned": false, "condition": "", "notes": ""},
+      "adjustable_wrench_set": {"owned": false, "condition": "", "notes": ""},
+      "pliers_set": {"owned": false, "condition": "", "notes": ""}
+    },
+
+    "specialty_deck_tools": {
+      "post_level": {"owned": false, "condition": "", "notes": ""},
+      "deck_spacing_tool": {"owned": false, "condition": "", "notes": ""},
+      "joist_hanger_tool": {"owned": false, "condition": "", "notes": ""},
+      "deck_stain_applicator": {"owned": false, "condition": "", "notes": ""},
+      "hole_saw_set": {"owned": false, "condition": "", "notes": ""}
+    },
+
+    "safety_equipment": {
+      "safety_glasses": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "work_gloves": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "hearing_protection": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "steel_toe_boots": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "knee_pads": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "dust_masks": {"owned": false, "quantity": 0, "condition": "", "notes": ""},
+      "first_aid_kit": {"owned": false, "condition": "", "notes": ""}
+    }
+  },
+
+  "tools_needed_to_purchase": {
+    "essential_purchases": [
+      {
+        "item": "4-foot level",
+        "estimated_cost": 25,
+        "priority": "high",
+        "where_to_buy": "Home Depot, Lowe's",
+        "notes": "Essential for checking posts and framing"
+      },
+      {
+        "item": "Chalk line",
+        "estimated_cost": 15,
+        "priority": "high", 
+        "where_to_buy": "Any hardware store",
+        "notes": "Critical for layout"
+      }
+    ],
+    
+    "nice_to_have_purchases": [
+      {
+        "item": "Miter saw",
+        "estimated_cost": 200,
+        "priority": "medium",
+        "where_to_buy": "Home Depot, Lowe's, Amazon",
+        "notes": "Makes cutting much easier and more accurate"
+      }
+    ],
+
+    "total_estimated_purchase_cost": 0
+  },
+
+  "tools_to_borrow": {
+    "from_family_friends": [
+      {
+        "item": "Circular saw",
+        "source": "Uncle Bob",
+        "confirmed": false,
+        "pickup_date": "",
+        "return_date": "",
+        "notes": ""
+      }
+    ],
+    
+    "from_neighbors": [
+      {
+        "item": "Post hole digger",
+        "source": "Neighbor - Smith family",
+        "confirmed": false,
+        "pickup_date": "",
+        "return_date": "",
+        "notes": ""
+      }
+    ]
+  },
+
+  "tools_to_rent": {
+    "rental_items": [
+      {
+        "item": "Power auger (for post holes)",
+        "rental_source": "Home Depot Tool Rental",
+        "estimated_daily_cost": 35,
+        "days_needed": 1,
+        "total_cost": 35,
+        "reservation_phone": "(703) 426-0990",
+        "notes": "Much easier than digging by hand"
+      },
+      {
+        "item": "Pneumatic nailer",
+        "rental_source": "United Rentals",
+        "estimated_daily_cost": 45,
+        "days_needed": 2,
+        "total_cost": 90,
+        "reservation_phone": "",
+        "notes": "Speeds up decking installation significantly"
+      }
+    ],
+    
+    "total_rental_cost": 125
+  },
+
+  "consumables_and_supplies": {
+    "cutting_supplies": {
+      "circular_saw_blades": {"quantity_needed": 2, "cost_per_item": 15, "total_cost": 30},
+      "miter_saw_blades": {"quantity_needed": 1, "cost_per_item": 25, "total_cost": 25},
+      "drill_bits": {"quantity_needed": 1, "cost_per_item": 20, "total_cost": 20},
+      "spade_bits": {"quantity_needed": 1, "cost_per_item": 15, "total_cost": 15}
+    },
+    
+    "marking_supplies": {
+      "chalk": {"quantity_needed": 2, "cost_per_item": 3, "total_cost": 6},
+      "pencils": {"quantity_needed": 5, "cost_per_item": 1, "total_cost": 5},
+      "sharpie_markers": {"quantity_needed": 3, "cost_per_item": 2, "total_cost": 6}
+    },
+
+    "total_consumables_cost": 107
+  },
+
+  "local_tool_sources": {
+    "purchase_locations": [
+      {
+        "name": "Home Depot Burke",
+        "address": "5765 Burke Centre Pkwy, Burke, VA 22015",
+        "phone": "(703) 426-0990",
+        "tool_rental": true,
+        "contractor_pricing": true,
+        "notes": "Good selection, rental center on-site"
+      },
+      {
+        "name": "Lowe's Burke", 
+        "address": "9410 Old Keene Mill Rd, Burke, VA 22015",
+        "phone": "(703) 455-6800",
+        "tool_rental": false,
+        "contractor_pricing": true,
+        "notes": "Sometimes better prices on hand tools"
+      },
+      {
+        "name": "Northern Tool + Equipment",
+        "address": "7230 Heritage Village Plz, Gainesville, VA 20155",
+        "phone": "(571) 248-4200",
+        "tool_rental": true,
+        "contractor_pricing": false,
+        "notes": "Professional grade tools, bit farther drive"
+      }
+    ],
+
+    "rental_only_locations": [
+      {
+        "name": "United Rentals",
+        "address": "14501 Newbrook Dr, Chantilly, VA 20151",
+        "phone": "(703) 222-5100",
+        "specialties": ["Heavy equipment", "Professional grade tools"],
+        "notes": "Best for power augers and specialty tools"
+      },
+      {
+        "name": "A-1 Equipment Rental",
+        "address": "13999 Metrotech Dr, Chantilly, VA 20151", 
+        "phone": "(703) 803-9696",
+        "specialties": ["Construction equipment", "Local business"],
+        "notes": "Often better rates than big chains"
+      }
+    ]
+  },
+
+  "project_phase_tool_requirements": {
+    "planning_and_layout": {
+      "required_tools": ["tape_measure_25ft", "chalk_line", "string_line_level", "stakes", "spray_paint"],
+      "estimated_time": "4 hours",
+      "people_needed": 2,
+      "notes": "Most critical phase - accuracy here saves time later"
+    },
+
+    "foundation_footings": {
+      "required_tools": ["post_hole_digger_or_auger", "shovel", "level", "measuring_tape", "wheelbarrow"],
+      "estimated_time": "8 hours",
+      "people_needed": 2,
+      "notes": "Consider renting power auger for multiple holes"
+    },
+
+    "framing": {
+      "required_tools": ["circular_saw", "miter_saw", "drill_driver", "impact_driver", "level_4ft", "framing_square", "chalk_line"],
+      "estimated_time": "12 hours", 
+      "people_needed": 2-3,
+      "notes": "Most tool-intensive phase"
+    },
+
+    "decking_installation": {
+      "required_tools": ["miter_saw", "circular_saw", "drill_driver", "chalk_line", "spacing_tool"],
+      "estimated_time": "8 hours",
+      "people_needed": 2,
+      "notes": "Repetitive work - good music recommended!"
+    },
+
+    "railing_installation": {
+      "required_tools": ["miter_saw", "drill_driver", "router", "chisel_set", "level"],
+      "estimated_time": "6 hours",
+      "people_needed": 2,
+      "notes": "Detail work requiring patience and precision"
+    },
+
+    "finishing": {
+      "required_tools": ["sanders", "brushes", "rollers", "drop_cloths", "extension_cords"],
+      "estimated_time": "4 hours",
+      "people_needed": 1-2,
+      "notes": "Weather dependent - need 48 hours dry"
+    }
+  },
+
+  "cost_summary": {
+    "tools_to_purchase": 0,
+    "tools_to_rent": 125,
+    "consumables": 107,
+    "total_tool_budget": 232,
+    "notes": "Update totals as you fill out the template"
+  },
+
+  "family_member_tool_assignments": {
+    "experienced_members": {
+      "names": [],
+      "allowed_tools": ["all_power_tools", "sharp_tools", "heavy_tools"],
+      "restrictions": "none"
+    },
+    
+    "intermediate_members": {
+      "names": [],
+      "allowed_tools": ["drill_driver", "sanders", "hand_tools"],
+      "restrictions": "supervision_required_for_saws"
+    },
+
+    "beginner_members": {
+      "names": [],
+      "allowed_tools": ["measuring_tools", "hand_tools", "cleanup_tools"],
+      "restrictions": "no_power_tools_without_supervision"
+    },
+
+    "children": {
+      "names": [],
+      "allowed_tools": ["cleanup_supplies", "measuring_tape"],
+      "restrictions": "constant_supervision_required"
+    }
+  },
+
+  "maintenance_and_care": {
+    "after_project_care": [
+      "Clean all tools before storing",
+      "Oil metal tools to prevent rust",
+      "Charge all batteries fully",
+      "Replace worn blades and bits",
+      "Store tools in dry location",
+      "Return borrowed tools promptly"
+    ],
+
+    "tool_warranty_tracking": {
+      "power_tools": [],
+      "hand_tools": [],
+      "notes": "Keep receipts and register warranties"
+    }
+  },
+
+  "lessons_learned": {
+    "tools_that_were_essential": [],
+    "tools_that_were_unnecessary": [],
+    "tools_to_buy_for_next_project": [],
+    "rental_vs_purchase_decisions": [],
+    "notes": "Fill this out after project completion"
+  }
+}
