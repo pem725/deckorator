@@ -120,17 +120,20 @@ Currently optimized for:
 ### System Requirements
 - **Python 3.6+** 
 - **Internet connection** for AI submission
-- **Camera/phone** for site photography
+- **Camera/phone** for site photography OR shared photo album
 
 ### File Output
 - **Custom XML template** tailored to your project
 - **Local supplier integration** 
-- **Timestamped filename** for organization
+- **Session persistence** - resume previous templates
+- **Version tracking** - automatic archiving
+- **Timestamped filenames** for organization
 
 ### Privacy
 - **All data stays local** - nothing sent to our servers
 - **No account required**
 - **Your photos/plans only go to the AI service you choose**
+- **Photo albums** - only URLs stored, you control sharing permissions
 
 ---
 

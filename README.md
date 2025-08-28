@@ -8,9 +8,14 @@ Visit our website: **[https://pem725.github.io/deckorator](https://pem725.github
 
 1. **📝 Download & Run** our interactive Python script
 2. **❓ Answer Questions** about your deck project (10 minutes)
-3. **📸 Gather Materials** - photos of your site + hand-drawn sketches  
+3. **📸 Share Photos** - Google Photos album URL or individual photos
 4. **🤖 Submit to AI** - use generated template with Claude/ChatGPT
 5. **📋 Get Detailed Plans** - complete construction guidance!
+
+### 🔄 **Session Persistence** (New!)
+- **Resume previous templates** - Continue where you left off
+- **Update with new features** - Keep your responses, add new capabilities
+- **Version tracking** - Templates automatically archive previous versions
 
 ## 💻 Quick Start
 
@@ -34,6 +39,7 @@ python3 deck_planner.py
 - ✅ **Safety guidelines** for DIY construction
 - ✅ **Professional coordination** guidance (if needed)
 - ✅ **Permit requirements** for your local area
+- ✅ **Photo-specific recommendations** based on your actual site conditions
 
 ### 📍 Local Area Optimization:
 - **Northern Virginia** (Burke, Fairfax, Centreville) - Complete supplier database
@@ -71,9 +77,14 @@ python3 deck_planner.py
 
 - **Python 3.6+** (pre-installed on Mac/Linux, [download for Windows](https://python.org))
 - **10 minutes** to answer project questions
-- **Photos** of your planned deck area  
+- **Photos** - Google Photos album link OR individual photos to upload
 - **Sketches** of desired design (hand-drawn is fine!)
 - **AI assistant access** (Claude, ChatGPT, etc.)
+
+### 📸 **Photo Options:**
+- **Shared Album** (Recommended): Google Photos, iCloud, or other sharable albums
+- **Individual Upload**: Upload photos directly when submitting to AI
+- **Hybrid**: Mix of shared album + additional individual photos
 
 ## 🤝 Contributing
 
@@ -91,6 +102,8 @@ python3 deck_planner.py
 > *"The AI-generated plans were incredibly detailed! Saved us $3,000 and the whole family learned construction skills."* - **Burke, VA Family**
 
 > *"Perfect for complex projects - the technical drawings were professional-grade and passed inspection perfectly."* - **Experienced Builder**
+
+> *"Love the session persistence - started planning in winter, updated in spring with new ideas, kept all my previous answers!"* - **Repeat User**
 
 ---
 
