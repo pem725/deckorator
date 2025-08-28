@@ -1,0 +1,55 @@
+title: "Deckorator - AI-Powered Deck Planning"
+description: "Generate custom deck construction plans using AI and your project requirements"
+url: "https://pem725.github.io"
+baseurl: "/deckorator"
+
+# Theme
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - index.md
+  - mobile_quick_reference.md
+  - construction_phase_checklist.md
+  - photo_documentation_guide.md
+
+# GitHub
+github_username: pem725
+repository: "pem725/deckorator"
+
+# Site settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  examples:
+    output: false
+  reference:
+    output: true
+    permalink: /reference/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "_reference"
+      type: "reference"
+    values:
+      layout: "page"
+
+# Exclude files
+exclude:
+  - README.md
+  - CLAUDE.md
+  - examples/
+  - .git/
+  - .gitignore

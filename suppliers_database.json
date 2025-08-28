@@ -1,0 +1,36 @@
+{
+  "22032": {
+    "area": "Burke/Fairfax, Virginia",
+    "suppliers": [
+      "Home Depot Burke (703) 426-0990",
+      "Lowe's Burke (703) 455-6800", 
+      "Superior Building Supply (703) 451-9330",
+      "84 Lumber Manassas (703) 369-8484"
+    ]
+  },
+  "20121": {
+    "area": "Centreville, Virginia",
+    "suppliers": [
+      "Home Depot Centreville",
+      "Lowe's Centreville",
+      "Local lumber yards"
+    ]
+  },
+  "22015": {
+    "area": "Burke, Virginia", 
+    "suppliers": [
+      "Home Depot Burke (703) 426-0990",
+      "Lowe's Burke (703) 455-6800"
+    ]
+  },
+  "default": {
+    "area": "Your local area",
+    "suppliers": [
+      "Home Depot (check local store)",
+      "Lowe's (check local store)",
+      "Local lumber yards",
+      "Menards (if in coverage area)",
+      "Regional building supply stores"
+    ]
+  }
+}
