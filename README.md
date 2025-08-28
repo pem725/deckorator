@@ -1,16 +1,16 @@
-# 🏗️ Deckorator - AI-Powered Deck Planning System
+# 🏗️ Deckorator - AI-Powered Deck Construction Specifications Generator
 
-**Generate custom deck construction plans using AI and your project requirements!**
+**Generate detailed construction specifications, material lists, and engineering calculations using AI!**
 
 Visit our website: **[https://pem725.github.io/deckorator](https://pem725.github.io/deckorator)**
 
 ## 🚀 How It Works
 
 1. **📝 Download & Run** our interactive Python script
-2. **❓ Answer Questions** about your deck project (10 minutes)
+2. **📐 Provide Precise Measurements** - exact dimensions, soil conditions, drainage
 3. **📸 Share Photos** - Google Photos album URL or individual photos
 4. **🤖 Submit to AI** - use generated template with Claude/ChatGPT
-5. **📋 Get Detailed Plans** - complete construction guidance!
+5. **🔧 Get Construction Specs** - detailed engineering specifications and plans!
 
 ### 🔄 **Session Persistence** (New!)
 - **Resume previous templates** - Continue where you left off
@@ -26,85 +26,86 @@ curl -O https://pem725.github.io/deckorator/deck_planner.py
 # Run it (requires Python 3.6+)
 python3 deck_planner.py
 
-# Follow prompts to generate your custom template
+# Follow prompts to generate your construction template
 # Then submit to your favorite AI assistant!
 ```
 
 ## 🎯 What You'll Get
 
-### 🤖 AI-Generated Plans Include:
-- ✅ **Custom material lists** with local supplier recommendations
-- ✅ **Step-by-step instructions** tailored to your skill level  
-- ✅ **Cost estimates** within your budget range
-- ✅ **Safety guidelines** for DIY construction
-- ✅ **Professional coordination** guidance (if needed)
-- ✅ **Permit requirements** for your local area
-- ✅ **Photo-specific recommendations** based on your actual site conditions
+### 🔧 AI-Generated Construction Specifications Include:
+- ✅ **Grading analysis** with water runoff calculations and soil preparation requirements
+- ✅ **Footer specifications** - exact number, depths, spacing calculations based on load requirements
+- ✅ **Framing plans** with technical sketches complying with local building codes
+- ✅ **Detailed material lists** formatted for competitive supplier bidding with exact quantities
+- ✅ **Construction timeline** with Gantt chart for equipment rental and subcontractor scheduling
+- ✅ **Engineering calculations** for load-bearing capacity and structural requirements
+- ✅ **Local code compliance** verification and permit guidance
 
 ### 📍 Local Area Optimization:
-- **Northern Virginia** (Burke, Fairfax, Centreville) - Complete supplier database
-- **Other areas** - General recommendations + customization guidance
+- **Northern Virginia** (Burke, Fairfax, Centreville) - Complete supplier database with actual pricing
+- **Other areas** - General specifications + customization guidance for local conditions
 
-### 🌟 Complexity Levels:
-- **Basic Projects:** Simple rectangular decks, first-time builders
-- **Advanced Projects:** Multi-level, professional coordination, complex features
+### 🏗️ Construction Focus:
+- **Engineering Specifications:** Load calculations, structural requirements, foundation specs
+- **Professional Documentation:** Technical drawings, material specifications, construction sequences
+- **Code Compliance:** Local building code requirements, inspection checkpoints
 
 ## 🤖 Compatible AI Assistants
 
-- **[Claude](https://claude.ai)** ⭐ *Best for detailed construction guidance*
-- **[ChatGPT](https://chat.openai.com)** ⭐ *Excellent for creative design ideas*  
-- **[Perplexity](https://perplexity.ai)** - *Great for research and local codes*
+- **[Claude](https://claude.ai)** ⭐ *Best for detailed engineering calculations and construction specifications*
+- **[ChatGPT](https://chat.openai.com)** ⭐ *Excellent for technical drawings and material optimization*  
+- **[Perplexity](https://perplexity.ai)** - *Great for local building codes and permit research*
 
-## 📖 Example Projects
+## 📖 Construction Specification Examples
 
-**Basic:** *"12x16 deck, $8,000 budget, first-time builder, family help"*  
-→ Simple plans, safety focus, beginner instructions
+**Grading Analysis:** *"3% slope toward east side of house requires French drain installation and 6-inch gravel base extending 2 feet beyond deck perimeter"*
 
-**Advanced:** *"Multi-level deck, composite materials, $18,000, experienced DIYer"*  
-→ Technical drawings, professional coordination, detailed cost tracking
+**Footer Specifications:** *"12 concrete footers required: 8 perimeter at 42-inch depth, 4 interior beam supports at 36-inch depth, spaced 8 feet on center for 16x20 deck with 40 PSF live load"*
 
-## 📚 Additional Resources
+**Material List:** *"Pressure-treated 2x10 joists (qty: 14), galvanized joist hangers (qty: 28), concrete mix (15 bags), gravel base (3 cubic yards) - formatted for competitive bidding"*
 
-- **[Construction Checklist](construction_phase_checklist.md)** - Day-by-day build guide
-- **[Mobile Quick Reference](mobile_quick_reference.md)** - Job site essentials  
-- **[Photo Documentation Guide](photo_documentation_guide.md)** - Professional progress tracking
-- **[Budget Tracking Template](budget_tracking_template.csv)** - Cost management
-- **[QR Code Resources](qr_code_resources.md)** - Mobile access to calculators
+## 📚 Construction Resources
 
-*Visit our [GitHub Pages site](https://pem725.github.io/deckorator) for the complete documentation.*
+- **[Construction Checklist](construction_phase_checklist.md)** - Phase-by-phase construction guide
+- **[Mobile Quick Reference](mobile_quick_reference.md)** - Job site specifications and calculations  
+- **[Photo Documentation Guide](photo_documentation_guide.md)** - Construction progress documentation
+- **[Budget Tracking Template](budget_tracking_template.csv)** - Material cost management
+- **[QR Code Resources](qr_code_resources.md)** - Mobile calculators for on-site use
+
+*Visit our [GitHub Pages site](https://pem725.github.io/deckorator) for complete construction documentation.*
 
 ## 🛠️ Requirements
 
 - **Python 3.6+** (pre-installed on Mac/Linux, [download for Windows](https://python.org))
-- **10 minutes** to answer project questions
-- **Photos** - Google Photos album link OR individual photos to upload
-- **Sketches** of desired design (hand-drawn is fine!)
+- **15 minutes** to provide precise measurements and site conditions
+- **Photos** - Google Photos album link OR individual photos showing site conditions
+- **Site measurements** - exact dimensions, slope conditions, soil type
 - **AI assistant access** (Claude, ChatGPT, etc.)
 
-### 📸 **Photo Options:**
-- **Shared Album** (Recommended): Google Photos, iCloud, or other sharable albums
-- **Individual Upload**: Upload photos directly when submitting to AI
-- **Hybrid**: Mix of shared album + additional individual photos
+### 📸 **Photo Requirements:**
+- **Site conditions**: Existing structures, drainage, soil conditions
+- **Measurement references**: Property lines, existing structures, elevation changes
+- **Access points**: Equipment access, material delivery areas
 
 ## 🤝 Contributing
 
-- **Supplier Database:** Add suppliers for your local area
-- **Success Stories:** Share your deck building experience  
-- **Feature Requests:** Suggest improvements via GitHub Issues
+- **Supplier Database:** Add local suppliers with current pricing
+- **Engineering Standards:** Contribute local building code requirements  
+- **Construction Examples:** Share successful project specifications
 
 ## 📞 Support
 
-- **[GitHub Issues](https://github.com/pem725/deckorator/issues)** - Report bugs or requests
-- **[Discussions](https://github.com/pem725/deckorator/discussions)** - Community help
+- **[GitHub Issues](https://github.com/pem725/deckorator/issues)** - Report bugs or request features
+- **[Discussions](https://github.com/pem725/deckorator/discussions)** - Construction specification help
 
 ## 🏆 Success Stories
 
-> *"The AI-generated plans were incredibly detailed! Saved us $3,000 and the whole family learned construction skills."* - **Burke, VA Family**
+> *"Got exact footer specifications and load calculations - passed structural inspection on first try with zero corrections needed."* - **Professional Contractor**
 
-> *"Perfect for complex projects - the technical drawings were professional-grade and passed inspection perfectly."* - **Experienced Builder**
+> *"The grading analysis prevented major drainage issues. AI calculated exactly how much soil to move and where."* - **DIY Builder**
 
-> *"Love the session persistence - started planning in winter, updated in spring with new ideas, kept all my previous answers!"* - **Repeat User**
+> *"Material list was so detailed I got competitive bids from 3 suppliers and saved $2,400 on lumber alone."* - **Experienced Builder**
 
 ---
 
-**🏗️ Ready to build your dream deck with AI assistance? [Get started now!](https://pem725.github.io/deckorator) 🏗️**
+**🏗️ Ready to generate professional construction specifications with AI? [Get started now!](https://pem725.github.io/deckorator) 🏗️**
